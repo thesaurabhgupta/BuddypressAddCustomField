@@ -1,4 +1,4 @@
-BuddypressAddCustomField
+Buddy Press Add Custom Fields
 ========================
 
 you can expand BuddyPress group pages with additional data.
